@@ -3,6 +3,7 @@ html,
 body {
   width: 100%;
   height: 100%;
+  background-color: aliceblue;
 }
 input::-ms-clear,
 input::-ms-reveal {
